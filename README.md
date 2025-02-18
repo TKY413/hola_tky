@@ -11,8 +11,9 @@ gem install hola_tky
 ## Usage
 
 ```ruby
-HolaTky.generate
-=> "f779fd5c-8e1c-4a32-bb1d-407b79588b59"
+require 'hola_tky'
+
+puts HolaTky.generate  # => "f779fd5c-8e1c-4a32-bb1d-407b79588b59"
 ```
 
 ## License
