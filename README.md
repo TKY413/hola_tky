@@ -1,6 +1,12 @@
 # HolaTky
-A simple hello world gem that generates UUIDs using SecureRandom.
+A simple hello world gem that generates UUIDs using SecureRandom. 
 This gem was created as part of a personal learning project. There is no plan for active maintenance.
+
+## Installation
+
+```
+gem install hola_tky
+```
 
 ## Usage
 
